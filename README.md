@@ -1,7 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
 
-<div align=center>
-<h3>개발자 이귀현입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
-</h3>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Lee%20Kwi%20Hyeon%20%F0%9F%A4%97)
 📚 Languages / Library / Tools 📚
