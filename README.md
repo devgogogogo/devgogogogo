@@ -5,6 +5,10 @@
 
 # :mega: About Me :mega:
 
+안녕하세요, 돌다리도 한번 더 두드리는 개발자입니다 🙋‍♂️
+
+</div>
+
 </div>
 
 <!-- Tech Stack -->
